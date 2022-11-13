@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "this is the file of keerthi"
+echo "this is the test file of keerthi"
